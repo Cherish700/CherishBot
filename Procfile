@@ -1,1 +1,1 @@
-worker: node CherishBot.sln
+worker: node CherishBot.csproj

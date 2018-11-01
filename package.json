@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "CherishBot.sln",
+  "main": "CherishBot.csproj",
   "scripts": {
-    "start": "node CherishBot.sln"
+    "start": "node CherishBot.csproj"
   },
   "dependencies": {
     "discord.js": "11.1.0",
