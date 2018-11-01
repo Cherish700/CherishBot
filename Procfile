@@ -1,1 +1,1 @@
-worker: node cherishbot.js
+worker: node CherishBot.sln
