@@ -30,7 +30,7 @@ namespace CherishBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string botToken = "Mjk1NTcxMjM1OTUyMzk0MjQx.Di-jYQ.F8go03n2kw7lqOSUvN0iExFjN2Q";
+            string botToken = "Mjk1NTcxMjM1OTUyMzk0MjQx.Drxojw.GJvtdNOG-YrJFu-2NLyyNbnO0qI";
 
             //event subscriptions
             _client.Log += Log;
